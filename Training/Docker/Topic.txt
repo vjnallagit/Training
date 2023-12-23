@@ -1,0 +1,24 @@
+Dockers
+Kuberneties
+Devops
+Site reliable Engineer
+
+Docker: is a platform to create/deploy containers
+
+Container : is a conbination of light wait OS along with required apllications and their dependencies and it can be copied to any platfrom like Linux/Windows and run it 
+
+Linux
+Local user management
+How to extend the disks
+how to configure raids
+file systems
+lines in boot files
+how to configure static IP
+Disbale and enable NIC
+check if internet is working in sevrer or not
+add remove programms like windows
+install any software downloaded from internet
+how to download softare from internet
+various log files to check 
+commands to query logs
+

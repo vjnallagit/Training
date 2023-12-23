@@ -1,0 +1,16 @@
+Install Latest Powershell by downloading it from internet
+
+Installation
+Use the Install-Module cmdlet to install the Az PowerShell module:
+
+PowerShell
+
+Install-Module -Name Az -Repository PSGallery -Force
+Update the Az PowerShell module
+Use Update-Module to update to the latest version of the Az PowerShell module:
+
+PowerShell
+
+Update-Module -Name Az -Force
+Updating the Az PowerShell module using Update-Module doesn't remove old versions of the Az PowerShell module from your system.
+

@@ -1,0 +1,1 @@
+this is downloaded script, need to modify credentials and  providers
